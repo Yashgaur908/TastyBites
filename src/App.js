@@ -33,8 +33,7 @@ const App = () => {
             <Route path="/createItem" element={<CreateContainer />} />
           </Routes>
         </main>
-      </div> 
-      {/* comment */}
+      </div>
     </AnimatePresence>
   );
 };
